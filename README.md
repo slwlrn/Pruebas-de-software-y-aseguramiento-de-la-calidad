@@ -145,8 +145,3 @@ Un puntaje de 10/10 indica que no hay errores de estilo.
 
 ---
 
-## 🎯 **Conclusión**
-Estos programas permiten analizar archivos de texto para obtener estadísticas, realizar conversiones numéricas y contar palabras, utilizando principios de programación estructurada y buenas prácticas de codificación con PEP 8.
-
----
-
